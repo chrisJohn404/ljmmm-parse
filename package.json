@@ -19,6 +19,10 @@
         "name": "Sam Pottinger",
         "url": "http://gleap.org"
     },
+    "contributors": [{
+        "name": "Chris Johnson",
+        "url": "https://github.com/chrisJohn404"
+    }],
     "main": "./lib/ljmmm",
     "license": "MIT",
     "keywords": [
@@ -26,10 +30,10 @@
         "LJMMM",
         "MODBUS"
     ],
-    "homepage": "https://github.com/samnsparky/ljmmm-parse",
+    "homepage": "https://github.com/chrisJohn404/ljmmm-parse",
     "repository": {
         "type" : "git",
-        "url" : "http://github.com/samnsparky/ljmmm-parse.git"
+        "url" : "https://github.com/chrisJohn404/ljmmm-parse.git"
     },
     "files": [
         "lib"
